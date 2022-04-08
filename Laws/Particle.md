@@ -1,16 +1,20 @@
 ---
-author: HXNAMB
-tags: Particle-Law
-permalink: Posts/Particle
+layout: article
+permalink: Laws/Particle
 aside:
     toc: true
+sidebar:
+    nav: laws
 ---
 
-<div class="hero hero hero--dark" style="background-image: url('/Pictures/Particle.gif');">
+<div class="hero hero hero--dark" style="background-image: url('/Pictures/Laws/Particle.gif');">
     <div class = "hero__content">
-    <h3> I am everything. </h3>
+    <h3> Hxnamb is everything. </h3>
     </div>
 </div>
+
+
+
 
 ## Statement
 
