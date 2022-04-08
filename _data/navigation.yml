@@ -27,7 +27,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Purpose
+      en      : &EN       Github
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -49,4 +49,16 @@ header:
       fr-LU   : *FR
       tr      : &TR       Hakkında
       # @end locale config
-    url: /about.html
+    url: https://github.com/HXNAMB/HXNAMB.github.io
+
+laws:
+  - title: Overview
+    children:
+    - title: Introduction
+      url: Posts/Intro
+  - title: List of Laws
+    children:
+    - title: Hxnamb's Particle 
+      url: Laws/Particle
+    - title: Aditya = AV
+      url: Laws/AD
