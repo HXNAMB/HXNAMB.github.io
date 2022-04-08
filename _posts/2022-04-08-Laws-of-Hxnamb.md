@@ -38,3 +38,5 @@ Each law has been carefully curated by us three contributors and define the **Hx
 ## Gratitude
 
 Hxnamb and the contributors are very much thankful for you who is taking your own time to read through this amazing documentation of each law present in the "Hxnamb Universe" :thumbsup:
+
+--- 
